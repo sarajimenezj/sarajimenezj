@@ -4,7 +4,7 @@
 # 📚 Projects Profolio
 Feel free to discover my data analysis projects by [clicking here]((https://github.com/sarajimenezj/DA_Portfolio))
 
-# 🧰Tools
+# 🧰 Tools
  - Technical Skills : SQL
  - Statistical programming langiages: Python, R
  - Data visualization: PowerBI, Tableau
