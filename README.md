@@ -7,10 +7,10 @@ Feel free to discover my data analysis projects by [clicking here]((https://gith
 # 🧰Tools
  - Technical Skills : SQL
  - Statistical programming langiages: Python, R
- - Data visualization: PowerBI, Tableau##
+ - Data visualization: PowerBI, Tableau
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraisabeljimenez/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraisabeljimenez/)
 <!--
 **sarajimenezj/sarajimenezj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
